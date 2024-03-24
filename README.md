@@ -89,6 +89,5 @@ Special thanks to [React](https://reactjs.org/) and [Tailwind CSS](https://tailw
 ## Contact
 
 For any inquiries or feedback, please contact Anurag at [anuraggaiwal0@gmail.com](mailto:anuraggaiwal0@gmail.com).
-```
 
 This merged README file includes information about both the Todo List App and the Next.js project, providing comprehensive details for users and contributors. Feel free to adjust it further to better fit your project's specific requirements.
