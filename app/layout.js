@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#4285f4" />
-        <link rel="manifest" href="/manifest.json" /> 
+        <link rel="manifest" href="public/manifest.json" /> 
       <title>TodoList Anurag</title>
     </head>
       <body className={inter.className}>{children}</body>
