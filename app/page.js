@@ -41,6 +41,13 @@ const Page = () => {
   };
 
   return (
+    <>
+    <html>
+      <head>
+        <link rel="manifest" href="app/manifest.json" />
+        <meta name="theme-color" content="#000000" />
+      </head>
+    </html>
     <div className="flex flex-col min-h-screen">
       <h1 className="text-red p-5 text-xl text-center bg-black text-white font-bold">
         Anurag Todo list
@@ -76,6 +83,7 @@ const Page = () => {
         Made with React and love
       </footer>
     </div>
+    </>
   );
 };
 
